@@ -1,4 +1,4 @@
-# Technion OS Coursework (Mid-2025)
+# Technion OS Coursework (Winter-2025)
 
 * **HW1 - SMASH:** Miniature shell tracking process IDs, using signals, and low-level system calls.
 * **HW2 - Buddy Allocator:** Memory allocation and management tool built from scratch.
